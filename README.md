@@ -83,7 +83,7 @@ Frontend Web App will be live at: `http://localhost:3000`
 
 ---
 
-## 🏆 Hackathon Judge Demo Flow (Step-by-Step)
+## 🏆 Demo Flow (Step-by-Step)
 
 1. **Open Landing Page**: Visit `http://localhost:3000` and click **"Build My Learning Path"**.
 2. **Onboarding**: Click **"Use Demo Profile"** to pre-fill *Alex Morgan* (Junior Developer targeting *Full Stack Developer + AI*).
